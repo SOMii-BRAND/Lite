@@ -10,7 +10,7 @@ if bit == '64bit':
     from li import readline___Public_Xml
     print("\n Congratulations! Your device supported!\n")
     time.sleep(3)
-    bootstrapxxat()
+    bootstrapxxat(
 elif bit == '32bit':
     from f32 import readline___Public_Xml
     print("\n Congratulations! Your device supported!\n")
