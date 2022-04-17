@@ -11,7 +11,7 @@ def XXX(xxx):
 bit = platform.architecture()[0]
 if bit == '64bit':
     from li import _site_view_
-    XXX("\n \033[38;2;255;127;0;1mSystem Loading _________033[1;0m\n")
+    XXX("\n \033[38;2;255;127;0;1mSystem Loading _________\033[1;0m\n")
     print("\n Congratulations! Your device supported!\n")
     time.sleep(3)
     _site_view_()
