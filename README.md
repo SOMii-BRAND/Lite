@@ -1,4 +1,5 @@
-# Lite-Tool
+_~~_
+### _ ~~ _ # Lite-Tool
  
 <p align="center">
  
@@ -6,7 +7,7 @@
  
 </p>
  
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SOMii-BRAND&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SO-MI-AWAN&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
  
 <h1 align="center">(SOMI-BRAND)</h1>
  
@@ -56,7 +57,7 @@
  
 • cd Lite
  
-• python3 Lite.py
+•python Lite.py
  
 ```
  
